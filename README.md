@@ -9,6 +9,7 @@ This includes
   analysing the number, cummulative number anc percentage of supporters and objectors over time
   gathering significant events and integrating into the timeline
   
-  So far applied to a single application, that for a cycleway through Victoria Park
+  So far applied it has been applied to a couple of applications for a cycleway through Victoria Park
+  and also for an application dashboard
   
   
